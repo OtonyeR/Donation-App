@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566608767320",
+    "project_id": "purple-community",
+    "storage_bucket": "purple-community.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566608767320:android:afaec716b7cd14581e9d2d",
+        "android_client_info": {
+          "package_name": "com.digitalrobin.purple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566608767320-i8cb4gra9h6griv6bfmakajdh3i2odig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmYDwkwLJmZNrwHV6tGrEMGg6d7BvRiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566608767320-i8cb4gra9h6griv6bfmakajdh3i2odig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
