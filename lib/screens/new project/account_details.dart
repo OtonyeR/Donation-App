@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:purple/screens/new%20project/project2.dart';
+//import 'package:purple/screens/new%20project/project2.dart';
 
 class AccountDetails extends StatefulWidget {
   const AccountDetails({Key? key}) : super(key: key);
